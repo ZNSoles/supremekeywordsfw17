@@ -1,7 +1,7 @@
 
 | **Item**                                                               | **Catagory**  | **Colors**                                                                          | **Size**        | **Keyword** |
 | :----------------------------------------------------------------------|:-------------:| :-----------------------------------------------------------------------------------|:----------------|:------------|
-| Fuck Love Tee                                                          | T-Shirts      | Black, Others Unknown as of now.                                                    | S, M, L, XL     | Pullover    |
+| Fuck Love Tee                                                          | T-Shirts      | Black, Others Unknown as of now.                                                    | S, M, L, XL     | Love        |
 | DNA Tee                                                                | T-Shirts      | Royal, Others Unknown as of now.                                                    | S, M, L, XL     | Fleece      |
 | Kiss Tee                                                               | T-Shirts      | Heather Grey, Others Unknown as of now.                                             | S, M, L, XL     | Pant        |
 | Fuck With Your Head Tee                                                | T-Shirts      | Acid Green, Others Unknown as of now.                                               | S, M, L, XL     | Backpack    |
