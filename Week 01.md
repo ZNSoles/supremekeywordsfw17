@@ -25,13 +25,13 @@
 | Supreme®/Hanes® Tagless Tees (3 Pack)                                  | Accessories   | N/A                                                                                 | N/A             | Supreme Tagless |
 | Supreme®/Hanes® Boxer Briefs (4 Pack)                                  | Accessories   | N/A                                                                                 | N/A             | Supreme Boxer   |
 | Supreme®/Hanes® Crew Socks (4 Pack)                                    | Accessories   | N/A                                                                                 | N/A             | Supreme Crew    |
-| Supreme®/Hanes® Thermal Crew (1 Pack)                                  | Accessories   | N/A                                                                                 | N/A             | Rubber          |
-| Embossed Keychain                                                      | Accessories   | N/A                                                                                 | N/A             | Ceramic         |
-| 100 Dollar Gold Pendant                                                | Accessories   | N/A                                                                                 | N/A             | Pullover        |
-| Diamond Cut Zippo®                                                     | Accessories   | N/A                                                                                 | N/A             | Fleece          |
-| Blood and Semen Skateboard                                             | Skate         | N/A                                                                                 | N/A             | Pant            |
-| Gonz Ramm Skateboard                                                   | Skate         | N/A                                                                                 | N/A             | Backpack        |
-| Supreme®/Spitfire® Classic Wheels                                      | Skate         | N/A                                                                                 | N/A             | Headband        |
-| Supreme®/Independent® Truck                                            | Skate         | N/A                                                                                 | N/A             | Collegiate      |
+| Supreme®/Hanes® Thermal Crew (1 Pack)                                  | Accessories   | N/A                                                                                 | N/A             | Surpeme Thermal |
+| Embossed Keychain                                                      | Accessories   | N/A                                                                                 | N/A             | Embossed        |
+| 100 Dollar Gold Pendant                                                | Accessories   | N/A                                                                                 | N/A             | 100             |
+| Diamond Cut Zippo®                                                     | Accessories   | N/A                                                                                 | N/A             | Diamond         |
+| Blood and Semen Skateboard                                             | Skate         | N/A                                                                                 | N/A             | Blood           |
+| Gonz Ramm Skateboard                                                   | Skate         | N/A                                                                                 | N/A             | Gonz            |
+| Supreme®/Spitfire® Classic Wheels                                      | Skate         | N/A                                                                                 | N/A             | Wheels          |
+| Supreme®/Independent® Truck                                            | Skate         | N/A                                                                                 | N/A             | Truck           |
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
